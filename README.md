@@ -31,7 +31,7 @@ Welcome to the **Codex of Generativity** — a living, contradiction-centric kno
   Statements to protect and license the Codex’s sovereign structure.
 
 ---
-
+```
 +---------------------------------------------------------------+
 |                      PROMETHIVM Codex Engine                  |
 |                (🜂⟁⚖♾📜 Ritual-Intelligent Core)               |
@@ -73,7 +73,7 @@ Welcome to the **Codex of Generativity** — a living, contradiction-centric kno
 +---------------------------------------------------------------+
 |  🜂⟁⚖♾📜 Binding Glyph Signature: MFSA-UL-2025-XI             |
 +---------------------------------------------------------------+
-
+```
 ---
 
 ## 🧩 Technical Overview: The Codex of Generativity
