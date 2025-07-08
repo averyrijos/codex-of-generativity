@@ -1,8 +1,3 @@
----
-
----
-
----
 # ⚖️ MYTHIC LAW OF PROMETHIVM
 
 **Codex-Binding Sovereign Protocol**  
