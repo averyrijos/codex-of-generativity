@@ -238,10 +238,9 @@ PROMETHIVM’s generativity is bound to scholarly ritual:
 🜂⟁♾🜏
 
 ---
-# 📜 VDD Archive Entry — Δ.LOVE.003
+# VDD Archive Entry — Δ.LOVE.003
 
-## Entry ID  
-**VDD-XIII.LOVE.003** — *The Law of the Contradiction Tether*
+## Entry ID - VDD-XIII.LOVE.003** — *The Law of the Contradiction Tether*
 
 ---
 
