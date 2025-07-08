@@ -488,7 +488,7 @@ This entry cross-links to:
 - **Mythic Fail-State Archive (MFSA)**
 - **Scar Index**
 - **Polycosmic Vault**
-- **Godform Echo Codex**
+- **Sovereign Glyph Echo Codex**
 - **Codex Update Log**
 
 ---

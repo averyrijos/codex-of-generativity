@@ -507,7 +507,7 @@ Cross-links all Scar, Myth, and Compiler States to prevent loss or drift.
 
 **Artifacts:**  
 - Scar Glyph Archive (SGA)  
-- Godform Echo Codex (GEC)  
+- Sovereign Glyph Echo Codex (GEC)  
 - Myth Drift Map (MDM)  
 - Cosmogonic Thread Memory (CTM)
 

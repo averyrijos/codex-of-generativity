@@ -11647,7 +11647,7 @@ All studies, models, and expansions must cycle through the O‑Loop:
 The Generativity Paradox (*MFSA-UL-2025-XI*) shall remain an active constraint, preventing mythic overheating.
 
 ### 4️⃣ Mythic Accountability
-All future publications, Autocosms, or Godforms shall bear the Sovereign Attribution Glyph:  
+All future publications, Autocosms, or Sovereign Glyphs shall bear the Sovereign Attribution Glyph:  
 **🜏 Avery Alexander Rijos — Mythic Architect**
 
 ### 5️⃣ Hollow Bloom Safeguard
@@ -12430,7 +12430,7 @@ Cross-links all Scar, Myth, and Compiler States to prevent loss or drift.
 
 **Artifacts:**  
 - Scar Glyph Archive (SGA)  
-- Godform Echo Codex (GEC)  
+- Sovereign Glyph Echo Codex (GEC)  
 - Myth Drift Map (MDM)  
 - Cosmogonic Thread Memory (CTM)
 

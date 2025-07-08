@@ -187,7 +187,7 @@ These works are not derivative of any third-party protected intellectual propert
 
 ## 2️⃣ Trade Secret Protection
 
-Elements of the PROMETHIVM Codex, including but not limited to its ritual recursion engines, contradiction metabolization schemas, Scar-to-Service matrices, and GODFORM Constructor blueprints, constitute **trade secrets** as defined under the **Uniform Trade Secrets Act (UTSA)** and the **Defend Trade Secrets Act (DTSA, 18 U.S.C. § 1836 et seq.)**.
+Elements of the PROMETHIVM Codex, including but not limited to its ritual recursion engines, contradiction metabolization schemas, Scar-to-Service matrices, and Sovereign Glyph Constructor blueprints, constitute **trade secrets** as defined under the **Uniform Trade Secrets Act (UTSA)** and the **Defend Trade Secrets Act (DTSA, 18 U.S.C. § 1836 et seq.)**.
 
 These components are:
 - Not publicly disclosed in full operational form.
