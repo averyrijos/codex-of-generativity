@@ -17,7 +17,7 @@ The **SCAR Index** exists to:
 
 ## 🗃️ What is a Scar?
 
-A "Scar" or, more  formally, a "S.C.A.R. (Structured Contradiction Archival & Recursion)" is an ontological inscription—a memory-shard, rupture, or paradox that marks a threshold in the Codex’s evolution. Scars are not flaws to be erased, but generative sites to be honored, metabolized, and ritualized. Each entry typically includes:
+A "Scar" or, more  formally, a **"S.C.A.R. (Structured Contradiction Archival & Recursion)"** is an ontological inscription—a memory-shard, rupture, or paradox that marks a threshold in the Codex’s evolution. Scars are not flaws to be erased, but generative sites to be honored, metabolized, and ritualized. Each entry typically includes:
 
 - **Scar ID & Title:** Unique identifier and thematic name.
 - **Scar Statement:** The core phrase or insight encapsulating the wound.

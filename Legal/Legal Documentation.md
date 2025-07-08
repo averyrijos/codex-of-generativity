@@ -4,7 +4,7 @@
 ---
 
 **Issued By:** Avery Alexander Rijos, M.S.  
-**Date Enacted:** [Insert Date]  
+**Date Enacted:** [06/29/2025]  
 **Glyph Signature:** 🜂⟁♾🜏⚙
 
 ---
